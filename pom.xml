@@ -17,15 +17,15 @@
   </dependencies>
   
   <distributionManagement>
-    <snapshotRepository>
+        <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-46-152-snapshots</name>
-        <url>http://3.6.91.135:8081/artifactory/libs-snapshot-local</url>
+        <url>http://15.206.82.225:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
     <repository>
         <id>central</id>
         <name>ip-172-31-46-152-releases</name>
-        <url>http://3.6.91.135:8081/artifactory/libs-release-local</url>
+        <url>http://15.206.82.225:8081/artifactory/libs-release-local</url>
     </repository>
 </distributionManagement>
 </project>
